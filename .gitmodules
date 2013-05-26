@@ -1,0 +1,24 @@
+[submodule "lib/vendor/midje-mode"]
+	path = lib/vendor/midje-mode
+	url = https://github.com/dnaumov/midje-mode.git
+[submodule "lib/vendor/clj-refactor"]
+	path = lib/vendor/clj-refactor
+	url = https://github.com/emacsmirror/clj-refactor.git
+[submodule "lib/vendor/s"]
+	path = lib/vendor/s
+	url = https://github.com/magnars/s.el
+[submodule "lib/vendor/dash"]
+	path = lib/vendor/dash
+	url = https://github.com/magnars/dash.el.git
+[submodule "lib/vendor/restclient"]
+	path = lib/vendor/restclient
+	url = https://github.com/pashky/restclient.el.git
+[submodule "lib/vendor/twittering-mode"]
+	path = lib/vendor/twittering-mode
+	url = git://github.com/hayamiz/twittering-mode.git
+[submodule "lib/vendor/haskell-mode"]
+	path = lib/vendor/haskell-mode
+	url = https://github.com/haskell/haskell-mode.git
+[submodule "lib/vendor/mingus"]
+	path = lib/vendor/mingus
+	url = https://github.com/pft/mingus.git
